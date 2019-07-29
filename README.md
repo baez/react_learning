@@ -1,8 +1,8 @@
-"#react_learning" 
+# React Learning 
 
 
-This is a series of code walkthroughs for learning React originally delivered as a Lunch & Learn by Behzad Karim
-
+These are a series of simple code walkthroughs for an introduction to React.
+This was originally prepared for a Lunch & Learn React Intro session by G.B. Karim
 
 - React is a Component Library
 	- Simple composition over inheritance 
