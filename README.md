@@ -4,10 +4,9 @@ These are a series of simple code walkthroughs for an introduction to React.
 This was originally prepared for a Lunch & Learn session.
 
 ## React is a Component Library
-	- Simple composition over inheritance 
-	- Utilizes virtual DOM
-	- Plays well with other frameworks
-
+- Simple composition over inheritance 
+- Utilizes virtual DOM
+- Plays well with other frameworks
 	
 ## Some core software engineering principles that are reinforced by the React Framework
 
@@ -15,12 +14,10 @@ This was originally prepared for a Lunch & Learn session.
 	- There should never be more than one reason for a class to change
 - Don't Repeat Yourself 
 	- Repetition breeds errors and waste
-- React's smart Virtual DOM saves time
-	Updating the DOM is expensive and React is strategic about it
-		○ Monitors the values of current state
-		○ Determines the least expensive way to update the DOM
-		○ Compares the current setup to desired setup 
-		
+- Virtual DOM saves time - Updating the DOM is expensive and React is strategic about it
+	- Monitors the values of current state
+	- Determines the least expensive way to update the DOM
+	- Compares the current setup to desired setup 	
 
 # About the Repo 🚀  
 
