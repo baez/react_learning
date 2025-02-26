@@ -35,3 +35,6 @@ A structured collection of learning resources, hands-on projects, and best pract
 
 ## Licensing
 This project is licensed under **Apache 2.0 License**.
+
+## Contact
+For any questions or discussions, feel free to reach out via GitHub Issues or submit a pull request!
