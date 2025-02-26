@@ -2,7 +2,7 @@
 
 
 These are a series of simple code walkthroughs for an introduction to React.
-This was originally prepared for a Lunch & Learn React Intro session by G.B. Karim
+This was originally prepared for a Lunch & Learn session.
 
 - React is a Component Library
 	- Simple composition over inheritance 
