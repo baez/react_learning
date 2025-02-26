@@ -14,7 +14,7 @@ This was originally prepared for a Lunch & Learn session.
   Single Responsibility Principle 
   - There should never be more than one reason for a class to change
 
-  Don't Repeat Yourself 
+ - Don't Repeat Yourself 
   - Repetition breeds errors and waste
 
 
