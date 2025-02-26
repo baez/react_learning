@@ -34,4 +34,4 @@ A structured collection of learning resources, hands-on projects, and best pract
 ✔️ **Best Practices** – Clean Code, Component Design, Testing  
 
 ## Licensing
-This project is open-source and available under the MIT License.
+This project is licensed under **Apache 2.0 License**.
