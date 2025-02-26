@@ -1,6 +1,5 @@
 # React Learning 
 
-
 These are a series of simple code walkthroughs for an introduction to React.
 This was originally prepared for a Lunch & Learn session.
 
@@ -26,3 +25,21 @@ This was originally prepared for a Lunch & Learn session.
 		○ Compares the current setup to desired setup 
 		
 
+# About the Repo 🚀  
+
+A structured collection of learning resources, hands-on projects, and best practices for mastering **React.js**. This repository is designed to help developers at any level, whether you're a beginner getting started or an experienced developer refining your skills.  
+
+## 📌 What This Repository Covers  
+
+✔️ **Fundamentals of React** – JSX, Components, Props, State, and Lifecycle  
+✔️ **React Hooks** – useState, useEffect, useContext, and Custom Hooks  
+✔️ **React Router** – Navigation and Dynamic Routing  
+✔️ **State Management** – Context API, Redux, Zustand  
+✔️ **Performance Optimization** – Memoization, Lazy Loading, Code Splitting  
+✔️ **Best Practices** – Clean Code, Component Design, Testing  
+
+## 📁 Project Structure  
+react_learning/ │── src/ # Main source code │ ├── components/ # Reusable UI components │ ├── hooks/ # Custom React hooks │ ├── pages/ # Page components for routing │ ├── state/ # State management (Redux/Zustand) │ ├── utils/ # Helper functions │── public/ # Static assets (HTML, images) │── README.md # Documentation │── package.json # Dependencies and scripts │── .gitignore # Ignored files
+
+## Licensing
+This project is open-source and available under the MIT License.
