@@ -5,7 +5,7 @@ This was originally prepared for a Lunch & Learn session.
 
 - React is a Component Library
 	- Simple composition over inheritance 
-	- Utilizes virtual DOM, fast
+	- Utilizes virtual DOM
 	- Plays well with other frameworks
 
 	
